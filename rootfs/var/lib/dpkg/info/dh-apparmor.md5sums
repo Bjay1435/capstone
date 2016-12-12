@@ -1,0 +1,6 @@
+0180bdf7c5f23885bd97537685b87b1b  usr/bin/dh_apparmor
+2d9bc318f67805d6a77f4c7a8caac932  usr/share/debhelper/autoscripts/postinst-apparmor
+b8059ec3105849829cdfebe8d4b7bcc0  usr/share/debhelper/autoscripts/postrm-apparmor
+3873adf9c9bc12e10e34f9396661ab64  usr/share/doc/dh-apparmor/changelog.Debian.gz
+ac5b0ee124f72a4c1622f6aca084d16f  usr/share/doc/dh-apparmor/copyright
+ed540753d16303687427dcdde73ef91d  usr/share/man/man1/dh_apparmor.1.gz

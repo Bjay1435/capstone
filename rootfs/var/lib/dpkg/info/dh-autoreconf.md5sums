@@ -1,0 +1,11 @@
+225006063de9448e7ec786c6194da963  usr/bin/dh_autoreconf
+44de44d7374847f438e43dad1cbe033e  usr/bin/dh_autoreconf_clean
+4d112c42064e1a0128bb8b71ee39143a  usr/share/cdbs/1/rules/autoreconf.mk
+0b4173ba30618a6b93ea3a5565127b90  usr/share/dh-autoreconf/ltmain-as-needed.diff
+a0260de5c6debe99970e9ac0a1357581  usr/share/doc/dh-autoreconf/NEWS.Debian.gz
+c063d2520a882508fc6a759d849ac04e  usr/share/doc/dh-autoreconf/changelog.gz
+1505a20406999009fabd9b25db8b8d65  usr/share/doc/dh-autoreconf/copyright
+beca51ae49c9f1a76a904061b53c91ca  usr/share/man/man1/dh_autoreconf.1.gz
+06c2667e71063b23f014b4dc806ea171  usr/share/man/man1/dh_autoreconf_clean.1.gz
+54d1e5d3d0967d7415dddb19a91530b8  usr/share/man/man7/dh-autoreconf.7.gz
+a900c2cd0ff089a2435bb4d25a35986c  usr/share/perl5/Debian/Debhelper/Sequence/autoreconf.pm

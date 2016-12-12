@@ -1,0 +1,12 @@
+3ac2954d7300d71b14cb5c33e3d09347  usr/bin/gcore
+63710e0d38ca600e5df3d5a321c282df  usr/bin/gdb
+2107852ea79576563d82a4f17b0fcb25  usr/share/doc/gdb-minimal/NEWS.Debian.gz
+984f5bff75fd00c7129f3722d2f61bc1  usr/share/doc/gdb-minimal/NEWS.gz
+471efe90e026850278e136713d1a370b  usr/share/doc/gdb-minimal/README.gz
+d7d88ec855fac6121da6cadef7cd529e  usr/share/doc/gdb-minimal/changelog.Debian.gz
+e29b075be92dc293ba19ac39df39f3b5  usr/share/doc/gdb-minimal/copyright
+7d8c3b59811f6cadcd484f5257c33139  usr/share/doc/gdb-minimal/refcard.dvi.gz
+0e2076e92bed9b4468d35c2da521ae39  usr/share/doc/gdb-minimal/refcard.ps.gz
+99d71819c26b8e4f091595e8c3cbae4a  usr/share/doc/gdb-minimal/refcard.tex.gz
+0c0e219b1d9ff5f798e1e7c626c46e8a  usr/share/man/man1/gcore.1.gz
+e2157c68fc00b43277ee97cd83c05924  usr/share/man/man1/gdb.1.gz

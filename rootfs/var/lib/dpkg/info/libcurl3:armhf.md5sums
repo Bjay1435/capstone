@@ -1,0 +1,5 @@
+d560a0bde8b6aef392d670745a81b0cd  usr/lib/arm-linux-gnueabihf/libcurl.so.4.3.0
+5f67ab850d7e46a9e730e66884b300c7  usr/share/doc/libcurl3/NEWS.Debian.gz
+cf95ca10ecb0dc09c06e0ec95c363f04  usr/share/doc/libcurl3/changelog.Debian.gz
+db7c20c553c799dc4cbdd0bfb07424d8  usr/share/doc/libcurl3/copyright
+3a20d059820eff05613a7fe30cbe6357  usr/share/lintian/overrides/libcurl3

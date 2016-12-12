@@ -1,0 +1,11 @@
+18ae435391f7667641d4256041ad5c0b  lib/arm-linux-gnueabihf/libpam.so.0.83.1
+ed519b8de91840c8ad1d310bcf820c6e  lib/arm-linux-gnueabihf/libpam_misc.so.0.82.0
+361ea5e39d41eec77f960f043b3896a7  lib/arm-linux-gnueabihf/libpamc.so.0.82.1
+5415c4c988fa93e6528d9142b92db701  usr/share/doc/libpam0g/Debian-PAM-MiniPolicy.gz
+a8215173a307fce152aa7f888b37d6a8  usr/share/doc/libpam0g/NEWS.Debian.gz
+225488e6df9a758faee8b4030eb50750  usr/share/doc/libpam0g/README
+ce3d89b0d852f9edb5fd439931b955a8  usr/share/doc/libpam0g/README.Debian
+ab72b70830c7c3f493f00a88ebf5ebf4  usr/share/doc/libpam0g/TODO.Debian
+a05489aba45c7f90c6ddfca475091ba6  usr/share/doc/libpam0g/changelog.Debian.gz
+6c05e902bc75c9e6d2da3ac75da5d47b  usr/share/doc/libpam0g/copyright
+3a630763c29aa2f8d4e6fd99f12e75b1  usr/share/lintian/overrides/libpam0g
